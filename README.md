@@ -15,7 +15,6 @@ First clone the repository:
 
 ```
 git clone https://github.com/archit2977/KANBAN && cd KANBAN
-
 ```
 Now do the following:
 ```
